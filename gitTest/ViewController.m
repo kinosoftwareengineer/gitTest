@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    NSLog(@"我是kino1");
+    NSLog(@"我是dev");
 }
 
 
