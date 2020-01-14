@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"我是master -a");
+    NSLog(@"我是dev");
 }
 
 
