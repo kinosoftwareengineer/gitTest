@@ -16,9 +16,13 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+<<<<<<< HEAD
 
     NSLog(@"我是kino1");
 
+=======
+    NSLog(@"我是kino2");
+>>>>>>> kino2
 }
 
 
